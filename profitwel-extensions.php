@@ -1,7 +1,7 @@
 <?php
 /*
  * Plugin Name:     Simple tracker for Profitwell
- * Plugin URI:      http://wordpress.org/plugins/profitwell-extensions/
+ * Plugin URI:      https://wordpress.org/plugins/simple-tracker-for-profitwell/
  * Description:     Simple plugin to add a tracking code of Profitwell
  * Version:         0.0.1
  * Author:          DigitalCube Inc. 
