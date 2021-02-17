@@ -1,6 +1,6 @@
 {
   "name": "profitwell-extensions",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "=== Simple tracker for Profitwell === Contributors:      hideokamoto Tags:              profitwel Requires at least: 5.5 Tested up to: 5.5.3 Requires PHP: 7.2 License:           GPL-2.0-or-later License URI:       https://www.gnu.org/licenses/gpl-2.0.html",
   "main": "index.js",
   "scripts": {
